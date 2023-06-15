@@ -1,0 +1,25 @@
+body{
+    margin: 10px;
+    margin-right: 1250px;
+}
+#fibonacci-container {
+    padding: 5px;
+    border:3px solid black;
+    border-radius: 20px;
+    background-color: rgb(210, 210, 210);
+}
+.fibonacci-number {
+    padding: 5px;
+    margin: 5px;
+    background-color: rgb(120, 120, 130);
+    border: 2px solid black;
+    border-radius: 20px;
+}
+.botao {
+    border:3px solid black;
+    border-radius: 20px;
+    background-color: rgb(210, 210, 210);
+    padding-left: 17px;
+    padding-right: 17px;
+    margin-left: 5px;
+}
